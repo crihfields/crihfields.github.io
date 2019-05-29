@@ -1,0 +1,70 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Dr. Crihfield's Website</title>
+<style type="text/css">
+body {
+	background-image: url(assets/background.jpg); 
+}
+</style>
+
+<link href="shs_styles.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+body,td,th {
+	font-size: 16px;
+}
+</style>
+</head>
+
+
+<body>
+<div class="container">
+<header>
+    <p style="text-align:center"><img src="assets/Crihfield Website banner.jpg" alt="Dr. Crihfiled's Website" width="950" height="140" align="top"/></p>
+    <div id="nav">
+      <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="calendar.html">Calendars  </a></li>
+          <li><a href="contact.html">Contact Me</a></li>
+          <li><a href="about.html">About Sandy Crihfield</a></li>
+          <li class="dropdown">
+              <a href="index.html" class="dropbtn">AICE Global Perspectives</a>
+              <div class="dropdown-content">
+                  <a href="as_global.html">AS Level</a>
+                  <a href="a_global.html">A Level</a>
+            </div>
+        </li>
+          <li class="dropdown">
+              <a href="index.html" class="dropbtn">AICE American History</a>
+              <div class="dropdown-content">
+                  <a href="as_history.html">AS Level</a>
+                  <a href="a_history.html">A Level</a>
+              </div>
+          </li>
+      </ul> 
+		</div>
+</header>
+<br clear="all" />
+<table align="center" cellspacing="5">
+<tr><td><img src="assets/book.jpg" width="300" height="55" alt="books" /></td><td><h1 align="center"> Dr. Crihfield's Website</h1></td><td><img src="assets/book.jpg" width="300" height="55" alt="books" align="right"/></td>
+</tr>
+</table>
+<br />
+<h3 align="center"> Welcome to Dr. Crihfield's website! This site can be used for all your academic desires and needs. </h3><br />
+<h4 align="center">Accommodations:</h4>
+<p>All accommodations required by law will be available to the student. Student and teacher will find suitable methods to make the class an exceptional place to live and be productive. If a parent wishes to be involved in these decisions, they are more than welcome. We will work on strategies to make this course a powerful learning environment for everyone.</p><br />
+<p><table cellpadding="10" align="center" #id="htable" frame="border" rules="rows">
+      <tr><th><h3> Useful Resources:</h3></th></tr>
+      <tr><th>Cambridge University AICE Website</th></tr>
+		<tr><th>Sarasota County Schools</th></tr>
+		<tr><th>Sarasota High School</th></tr>
+		<tr><th>Sarasota High School AICE</th></tr>
+      </table></p>
+<br clear="all">
+<p style="text-align:center"><img src="assets/welcome.jpg" alt="welcome"  width="475" height="94"/></p>
+<br clear="all">
+<footer style="text-align:center">Sandra Crihfield<br>Copyright © 2016<br>Designed by:<br>Brianna Dowd</footer>
+</div>
+</body>
+</html>
