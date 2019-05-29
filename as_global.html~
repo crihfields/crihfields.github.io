@@ -1,0 +1,183 @@
+<!DOCTYPE>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Dr. Crihfield's Website</title>
+<style type="text/css">
+body {
+	background-image: url(assets/background.jpg); 
+}
+</style>
+
+<link href="shs_styles.css" rel="stylesheet" type="text/css">
+
+</head>
+
+
+<body>
+
+<div class="container">
+<header>
+    <p style="text-align:center"><img src="assets/Crihfield Website banner.jpg" alt="Dr. Crihfiled's Website" width="950" height="140" align="top"/></p>
+    <div id="nav">
+      <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="calendar.html">Calendars</a></li>
+          <li><a href="contact.html">Contact Me</a></li>
+          <li><a href="about.html">About Sandy Crihfield</a></li>
+          <li class="dropdown">
+              <a href="index.html" class="dropbtn">AICE Global Perspectives</a>
+              <div class="dropdown-content">
+                  <a href="as_global.html">AS Level</a>
+                  <a href="a_global.html">A Level</a>
+              </div>
+          </li>
+          <li class="dropdown">
+              <a href="index.html" class="dropbtn">AICE American History</a>
+              <div class="dropdown-content">
+                  <a href="as_history.html">AS Level</a>
+                  <a href="a_history.html">A Level</a>
+              </div>
+          </li>
+      </ul> 
+		</div>
+</header>
+<br />
+<h1 align="center"> AS Level AICE Global Perspectives</h1>
+<p align="center"><img src="assets/globe.jpg" alt="globe" width="475" height="225" /></p>
+<br clear="all">
+<table cellpadding="5" cellspacing="30" border frame="box" rules="rows" align="center" width="100%">
+	<tr><td>Syllabus</td><td>Parent Letter Home</td><td>Video Permission Slip</td></tr>
+	<tr><td>Dates:</td><td>Important dates for units</td><td>Papers 1, 2, & 3 dates</td></tr>
+</table>
+<br clear="all">
+
+<div id="primary">
+<h3>Exams & Samples:</h3>
+<h4>Past Exams:</h4>
+<h5>Exam on global warming:</h5>
+9239_s13_qp_11<br />
+9239_s13_rb_11<br />
+9239_s13_ms_11<br />
+<h5>Exam on internet:</h5>
+9239_s13_qp_12<br />
+9239_s13_rb_12<br />
+9239_s13_ms_12<br />
+<h5>Exam on food & diet:</h5>
+9239_s15_qp_11<br />
+9239_s15_rb_11<br />
+9239_s15_ms_11<br />
+<h5>Exam on coral reefs:</h5>
+9239_s15_qp_12<br />
+9239_s15_rb_12<br />
+9239_s15_ms_12<br />
+<h5>Exam on children & technology:</h5>
+9239_w15_qp_01<br />
+9239_w15_rb_01<br />
+9239_w15_ms_01<br />
+<br />Example candidate responses<br />
+<h4>Sample Paper 2s:</h4>
+Sample water essay<br />
+Sample water essay<br />
+Sydney Askins essay<br />
+Sample genocide essay<br />
+Sample food essay (100)<br /> <!--brianna d-->
+Sample food essay (100)<br /><!--gabi c-->
+Sample food essay (100)<br /><!--karen a-->
+Sample food essay (100)<br /><!--margaux a-->
+Sample food essay (100)<br /><!--rhianna l-->
+Sample food essay (100)<br /><!--sierra p-->
+<h4>Sample Paper 3s:</h4>
+Sample Powerpoint 1<br />
+Sample Powerpoint 2<br />
+Sample Powerpoint 3<br />
+Sample Powerpoint 4<br />
+Sample Powerpoint 5<br />
+<br />
+Sample Presentation 1<br />
+Sample Presentation 2<br />
+Sample Presentation 3<br />
+Sample Presentation 4<br />
+Sample Presentation 5<br />
+Sample Presentation 6<br />
+</div>
+
+<div id="content">
+<h3>Instructional Materials:</h3>
+<h4>Preparation Unit:</h4>
+<p>Fracking exercise<br />
+Link to fracking explained<br /></p>
+<h4>Unit 1 - Water:</h4>
+<p>Sample portfolio<br />
+Deconstruction of bird article<br />
+</p>
+<h4>Unit 2 - Food:</h4>
+<h4>Unit 3 - Sex Trafficking & Child Soldiers:</h4>
+<p>
+Format for book highlighting/note taking<br />
+How to make book notes<br />
+Sample of book note taking<br />
+Instructions for book deconstruction<br />
+</p>
+<p>Cambridge marks (rubric) for papers</p>
+
+<h4>Paper 1 (Written Examination):</h4>
+<p>Deconstruction labels and raven<br />
+Quiz on fallacies<br />
+</p>
+
+<h4>Paper 2 (Essay):</h4>
+<p>
+Paper 2 instructions<br />
+Rubric for paper 2<br />
+Areas of study with sample questions<br />
+How to write a good question<br />
+Sample quote, source analysis, & content analysis<br />
+Transition examples<br />
+Transition words<br />
+Raven<br />
+Elements of arguments<br />
+Scaffolding format<br />
+Scaffolding sample<br />
+Scaffolding rubric<br />
+Validation key words<br />
+Validation vocabulary<br />
+Checklist for peer reviewing of scaffolding/essay<br />
+</p>
+
+<h4>Paper 3 (Group Presentation):</h4>
+<p>
+Paper 3 numbering<br />
+Presentation guidelines<br />
+Presentation rubric AO1, AO2, & AO3<br />
+Presentation rubric criteria for peer reviewing<br />
+Video links<br />
+Transition for presentations<br />
+</p>
+
+</div>
+
+<div id="secondary">
+<h3>Supplementary Resources:</h3>
+Citation rules 6th edition<br />
+Citation help lecture<br />
+What is an annotated bibliography?<br />
+How to analyze<br />
+Citation machine link<br />
+How many slaves work for you?<br />
+<h4>Evaluations of US & UK media:</h4>
+<p>
+List of newspapers in UK<br />
+List of newspapers in US<br />
+Spectrum of liberal to conservative news outlets in US<br />
+Conservative news outlets in US<br />
+</p>
+
+</div>
+<br clear="all">
+<p align="center"><img src="assets/perspectives.jpg" alt="perspectives" width="300" height="125" /></p>
+<br clear="all">
+<footer style="text-align:center">Sandra Crihfield<br>Copyright © 2016<br>Designed by:<br>Brianna Dowd</footer>
+</div>
+</body>
+</html>
